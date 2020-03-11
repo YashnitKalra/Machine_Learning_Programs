@@ -1,0 +1,7 @@
+x=seq(-2,2,0.1)
+par(mfrow=c(2,2))
+limit=c(-2,2)
+plot(x,x**3,xlim = limit,ylim = limit)
+plot(x,-x**3,xlim = limit,ylim = limit)
+plot(x,(2*x-1)**3,xlim = limit,ylim = limit)
+plot(x,2*x**3-1,xlim = limit,ylim = limit)

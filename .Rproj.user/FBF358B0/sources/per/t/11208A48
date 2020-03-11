@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583853679061.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3171260380",
+    "id" : "11208A48",
+    "lastKnownWriteTime" : 1583854789,
+    "last_content_update" : 1583854789425,
+    "path" : "E:/ML/Q12.R",
+    "project_path" : "Q12.R",
+    "properties" : {
+        "cursorPosition" : "5,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
