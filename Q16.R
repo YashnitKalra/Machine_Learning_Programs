@@ -10,4 +10,4 @@ myModel=lm(training_set$medv~.,data=training_set)
 
 predictions=predict(myModel,testing_set)
 
-mean((testing_set$medv-predictions)**2)
+mean((testing_set$medv-predictions)**2)**0.5
